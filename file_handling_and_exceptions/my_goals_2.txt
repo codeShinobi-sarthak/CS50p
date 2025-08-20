@@ -1,0 +1,2 @@
+Master Python for Machine Learning
+Build a real-world AI project
