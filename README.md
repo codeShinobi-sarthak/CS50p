@@ -1,22 +1,43 @@
-# CS50P Notes and Practice
+## Python Learning Workspace
 
-Welcome to my CS50P repository! This repository contains my notes, practice exercises, and projects related to Harvard's CS50 Introduction to Programming with Python course.
+This repository contains various Python projects, exercises, and notes organized by topic and learning resource. Below is an overview of the main folders and their contents:
 
-## Course Overview
+### adventure_game/
 
-CS50P is an introduction to programming in Python. The course covers fundamental programming concepts and problem-solving techniques, focusing on practical applications.
+Contains classes and logic for a text-based adventure game, including:
 
-## Notes
+-   `enemy_class.py`: Enemy character logic
+-   `item_class.py`: Item definitions
+-   `player_class.py`: Player character logic
+-   `room_class.py`: Room/environment logic
 
-This section contains my notes on various topics covered in the course. They are organized by week or topic for easy reference.
+### cs50p/
 
-- Week 1: [Introduction to Python](notes/lecture0)
-- Week 2: [Control Structures](notes/lecture1)
-- Week 3: [Functions](notes/lecture2)
-- Week 4: [Data Structures](notes/lecture3)
-- ... (add more as needed)
+Resources and code from the CS50's Introduction to Programming with Python course:
 
-## Contributing
+-   `_notes/`: PDF lecture notes
+-   `_some_basics/`: Basic Python scripts and patterns
+-   `CS50x_flask/`: Flask web app examples
+-   `lecture_0` to `lecture_9/`: Scripts and exercises by lecture topic (e.g., conditionals, loops, exceptions, functions)
 
-If you have any suggestions or improvements, feel free to fork the repository and submit a pull request!
+### file_handling_and_exceptions/
 
+Practice scripts for file handling and exception management:
+
+-   Examples: `exception_1.py`, `simple_journal.py`, `using_with.py`, etc.
+
+### level-up-python-(linkedin)/
+
+Python practice problems and solutions inspired by LinkedIn Learning:
+
+-   Examples: `check_palindrome.py`, `prime_factor.py`, `sort_a_string.py`, etc.
+
+### oops_practice/
+
+Object-oriented programming (OOP) practice scripts:
+
+-   Examples: `student_class.py`, `Vehicle.py`, `dunder_methods.py`, `abstraction_explained.py`, etc.
+
+---
+
+Feel free to explore each folder for topic-specific scripts, exercises, and notes. This workspace is designed for learning, experimentation, and reference.
